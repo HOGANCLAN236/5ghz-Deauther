@@ -9,3 +9,6 @@ I have not tested this PCB!
 
 ![PCB](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/image_2025-06-03_181903940.png)
 
+
+![Schematic](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/image_2025-06-04_095137747.png)
+

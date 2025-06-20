@@ -7,7 +7,10 @@ I have not tested this PCB!
 
 # Gallery
 
-![PCB](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/image_2025-06-03_181903940.png)
+![PCB (front)](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/Gallery/Screenshot%202025-06-20%20162943.png)
+![PCB (back)](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/Gallery/Screenshot%202025-06-20%20162943.png)
+
+![PCB IRL(not all components delivered)]()
 
 
 ![Schematic](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/image_2025-06-04_095137747.png)

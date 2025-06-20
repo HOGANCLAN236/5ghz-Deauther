@@ -4,7 +4,7 @@ A PCB for RTL8720DN BW16, use  github.com/dkyazzentwatwa/cypher-5G-deauther for 
 # Information
 This project is now completed. I am not responsible for what you do with this device. Please use this for educational purposes ONLY!
 
-THE IRL IMAGE DOES NOT HAVE ALL COMPONENTS!!
+THE IRL IMAGE DOES NOT HAVE ALL COMPONENTS and BATTERY IS ON BACK OF DEVICE!!
 
 I have not tested this PCB!
 

@@ -8,7 +8,7 @@ I have not tested this PCB!
 # Gallery
 
 ![PCB (front)](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/Gallery/Screenshot%202025-06-20%20162943.png)
-![PCB (back)](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/Gallery/Screenshot%202025-06-20%20162943.png)
+![PCB (back)](https://github.com/HOGANCLAN236/5ghz-Deauther/blob/main/Gallery/image_2025-06-20_163043465.png)
 
 ![PCB IRL(not all components delivered)]()
 
